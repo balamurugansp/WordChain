@@ -36,7 +36,7 @@
             </configuration>
         </plugin>
         <!-- ... -->
-        <!-- we want sources to be processed by a specific 1.6 javac -->
+        <!-- we want sources to be processed by a specific 1.7 javac -->
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
